@@ -1,0 +1,148 @@
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\appsettings.Development.json
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\appsettings.json
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.exe
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.deps.json
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.runtimeconfig.json
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.runtimeconfig.dev.json
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\ref\AuthServer.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.pdb
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.Views.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.Views.pdb
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\IdentityModel.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\IdentityServer4.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\IdentityServer4.Storage.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.AspNetCore.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Sinks.File.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.AssemblyInfoInputs.cache
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.AssemblyInfo.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.csproj.CoreCompileInputs.cache
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.MvcApplicationPartsAssemblyInfo.cache
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.RazorAssemblyInfo.cache
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.RazorAssemblyInfo.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\staticwebassets\AuthServer.StaticWebAssets.Manifest.cache
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\staticwebassets\AuthServer.StaticWebAssets.xml
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\scopedcss\bundle\AuthServer.styles.css
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.TagHelpers.input.cache
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.TagHelpers.output.cache
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.RazorCoreGenerate.cache
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Account\LoggedOut.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Account\Logout.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Consent\Index.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Device\Success.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Diagnostics\Index.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Grants\Index.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Shared\Redirect.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Shared\_Nav.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.RazorTargetAssemblyInfo.cache
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.RazorTargetAssemblyInfo.cs
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.Views.pdb
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.csproj.CopyComplete
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\ref\AuthServer.dll
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.pdb
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.genruntimeconfig.cache
+H:\NewCourse\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.csprojAssemblyReference.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\appsettings.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.exe
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.deps.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.runtimeconfig.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.runtimeconfig.dev.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\ref\AuthServer.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.Views.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\AuthServer.Views.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\IdentityServer4.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.csproj.AssemblyReference.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.AssemblyInfoInputs.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.AssemblyInfo.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.RazorAssemblyInfo.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.RazorAssemblyInfo.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\staticwebassets\AuthServer.StaticWebAssets.Manifest.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\staticwebassets\AuthServer.StaticWebAssets.xml
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\scopedcss\bundle\AuthServer.styles.css
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.TagHelpers.input.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.TagHelpers.output.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.RazorCoreGenerate.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Account\LoggedOut.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Consent\Index.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Device\Success.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Diagnostics\Index.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Grants\Index.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Shared\Redirect.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Shared\_Nav.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.RazorTargetAssemblyInfo.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.RazorTargetAssemblyInfo.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.Views.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.csproj.CopyComplete
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\ref\AuthServer.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\AuthServer\obj\Debug\net5.0\AuthServer.genruntimeconfig.cache

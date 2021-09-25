@@ -1,0 +1,110 @@
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\appsettings.Development.json
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\appsettings.json
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.exe
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.deps.json
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.runtimeconfig.json
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.runtimeconfig.dev.json
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\ref\JobsApi.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.pdb
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Humanizer.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.csprojAssemblyReference.cache
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.AssemblyInfoInputs.cache
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.AssemblyInfo.cs
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.csproj.CoreCompileInputs.cache
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.MvcApplicationPartsAssemblyInfo.cache
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\staticwebassets\JobsApi.StaticWebAssets.Manifest.cache
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\staticwebassets\JobsApi.StaticWebAssets.xml
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\scopedcss\bundle\JobsApi.styles.css
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.RazorTargetAssemblyInfo.cache
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.csproj.CopyComplete
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\ref\JobsApi.dll
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.pdb
+H:\NewCourse\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.genruntimeconfig.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.exe
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.deps.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.runtimeconfig.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.runtimeconfig.dev.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\ref\JobsApi.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.csproj.AssemblyReference.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.AssemblyInfoInputs.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.AssemblyInfo.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.csproj.CoreCompileInputs.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\staticwebassets\JobsApi.StaticWebAssets.Manifest.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\staticwebassets\JobsApi.StaticWebAssets.xml
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\scopedcss\bundle\JobsApi.styles.css
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.RazorTargetAssemblyInfo.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.csproj.CopyComplete
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\ref\JobsApi.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\JobsApi\obj\Debug\net5.0\JobsApi.genruntimeconfig.cache

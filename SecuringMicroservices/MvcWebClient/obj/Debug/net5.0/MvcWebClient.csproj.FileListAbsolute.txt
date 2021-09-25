@@ -1,0 +1,100 @@
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\appsettings.Development.json
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\appsettings.json
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.exe
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.deps.json
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.runtimeconfig.json
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.runtimeconfig.dev.json
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\ref\MvcWebClient.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.pdb
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.Views.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.Views.pdb
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.csprojAssemblyReference.cache
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.GeneratedMSBuildEditorConfig.editorconfig
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.AssemblyInfoInputs.cache
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.AssemblyInfo.cs
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.csproj.CoreCompileInputs.cache
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.MvcApplicationPartsAssemblyInfo.cache
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.RazorAssemblyInfo.cache
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.RazorAssemblyInfo.cs
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\staticwebassets\MvcWebClient.StaticWebAssets.Manifest.cache
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\staticwebassets\MvcWebClient.StaticWebAssets.xml
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\scopedcss\bundle\MvcWebClient.styles.css
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.TagHelpers.input.cache
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.TagHelpers.output.cache
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.RazorCoreGenerate.cache
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.RazorTargetAssemblyInfo.cache
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.RazorTargetAssemblyInfo.cs
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.Views.pdb
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.csproj.CopyComplete
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\ref\MvcWebClient.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.pdb
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.genruntimeconfig.cache
+H:\NewCourse\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\IdentityModel.dll
+H:\NewCourse\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\Auth\AccessDenied.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\appsettings.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.exe
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.deps.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.runtimeconfig.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.runtimeconfig.dev.json
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\ref\MvcWebClient.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.Views.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\MvcWebClient.Views.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.csproj.AssemblyReference.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.AssemblyInfoInputs.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.AssemblyInfo.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.csproj.CoreCompileInputs.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.RazorAssemblyInfo.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.RazorAssemblyInfo.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\staticwebassets\MvcWebClient.StaticWebAssets.Manifest.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\staticwebassets\MvcWebClient.StaticWebAssets.xml
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\scopedcss\bundle\MvcWebClient.styles.css
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.TagHelpers.input.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.TagHelpers.output.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.RazorCoreGenerate.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\Auth\AccessDenied.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.RazorTargetAssemblyInfo.cache
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.RazorTargetAssemblyInfo.cs
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.Views.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.csproj.CopyComplete
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\ref\MvcWebClient.dll
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.pdb
+C:\Users\Sp\Desktop\my security micro service\10.1 DevelopingSecureMicroservices1\SecuringMicroservices\MvcWebClient\obj\Debug\net5.0\MvcWebClient.genruntimeconfig.cache

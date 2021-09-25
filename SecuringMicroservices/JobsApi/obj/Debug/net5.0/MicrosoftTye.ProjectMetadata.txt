@@ -1,0 +1,20 @@
+AssemblyInformationalVersion:
+InformationalVersion: 1.0.0
+Version: 1.0.0
+TargetFrameworks:
+RunCommand: H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.exe
+RunArguments:
+TargetPath: H:\NewCourse\SecuringMicroservices\JobsApi\bin\Debug\net5.0\JobsApi.dll
+PublishDir: bin\Debug\net5.0\publish\
+AssemblyName: JobsApi
+IntermediateOutputPath: obj\Debug\net5.0\
+TargetFramework: net5.0
+_ShortFrameworkIdentifier:
+_ShortFrameworkVersion:
+_TargetFrameworkVersionWithoutV: 5.0
+FrameworkReference: Microsoft.NETCore.App;Microsoft.AspNetCore.App
+ContainerBaseImage:
+ContainerBaseTag:
+MicrosoftNETPlatformLibrary:
+_AspNetCoreAppSharedFxIsEnabled:
+UsingMicrosoftNETSdkWeb: true
